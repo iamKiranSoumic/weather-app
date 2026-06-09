@@ -3,3 +3,4 @@ Hyderabad weather is so hot
 -Temparature display
 
 ## Installation
+-Plugins
